@@ -1,5 +1,5 @@
 public class CAP01EJ03 {
-    public static void main(String[] args) throws Exception{
+    public static void main(String[] args){
         System.out.printf("%-10s%s%n", "computer", "ordenador");
         System.out.printf("%-10s%s%n", "student", "alumno/a");
         System.out.printf("%-10s%s%n", "cat", "gato");
